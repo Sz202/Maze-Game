@@ -1,0 +1,25 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwNDA0MDQwMzAzMDMwMzAzMDQwMzAyMDIwNDA0MDQwNDA0MDMwNDA0MDMwMzAzMDMwNDAzMDIwMzAzMDMwMzAzMDMwMzAzMDQwMzAzMDMwMzA0MDQwNDAzMDMwMTAzMDQwNDA0MDQwNDAzMDMwMzAzMDMwNDA0MDQwMzAxMDMwNDA0MDQwMzA0MDMwMzAzMDMwMzA0MDMwNDAzMDEwMzAzMDQwMzAzMDMwMzAzMDMwMzAzMDQwMzA0MDMwMTAzMDMwNDAzMDMwMzAzMDMwMzAzMDMwNDAzMDQwMzAxMDMwMzA0MDQwNDA0MDMwMzAzMDMwNDA0MDQwNDAzMDEwMzAzMDQwMzAzMDMwMzAzMDMwMzA0MDQwMzA0MDMwMzAzMDMwNDAzMDMwNDAzMDMwMzAzMDQwMzAyMDQwMjAzMDMwMzA0MDMwNDA0MDMwMzAzMDMwNDAzMDIwNDAyMDIwMjAyMDQwMzA0MDMwMzAzMDMwMzA0MDQwNDA0MDQwNDA0MDQwNDA0MDQwMzAzMDMwMzAzMDQwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDAwMDAwMDAwMDIyMDIwMDIwMjIyMjIyMjIwMDIwMDIyMDIwMDAwMDAwMjAwMDAyMjAyMDIwMjIyMjIyMDIwMjIwMDAyMDAyMDAwMDAwMDIyMDAyMDAwMjAyMDAwMjAyMjAwMjAyMDIyMjIwMjIwMjIwMDIwMjAyMjIyMDIyMDIyMDAyMDIwMjIyMDAwMDAyMjAwMDAwMDAyMjIwMjIwMjIwMDAwMjIyMjIyMDAyMDIyMDIwMDAyMDIyMjAwMDAyMjAyMDAwMDAwMDIwMjAwMjIwMDAwMDAwMDAwMDIwMDIyMDIwMjIyMjIyMjIyMjAyMjAyMjAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.brick",
+            "sprites.dungeon.hazardLava1",
+            "sprites.dungeon.floorLight2",
+            "sprites.builtin.forestTiles10"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
